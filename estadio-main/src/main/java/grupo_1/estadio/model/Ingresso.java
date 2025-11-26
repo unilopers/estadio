@@ -1,4 +1,4 @@
-package group_1.estadio;
+package group_1.estadio.ingresso;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
