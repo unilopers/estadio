@@ -44,3 +44,4 @@ public class SetorController {
         setorRepository.deleteById(id);
     }
 }
+
